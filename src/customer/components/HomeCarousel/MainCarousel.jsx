@@ -12,6 +12,7 @@ const MainCarousel = () => {
       alt=""
     ></img>
   ));
+
   return (
     <AliceCarousel
       items={items}
