@@ -54,9 +54,7 @@ export const singleFilter = [
             { value: "₹3999-₹4999", label: "₹3999 To ₹4999" }
         ],
     },
-];
-// Discount and Stock Filters
-export const discountAndStockFilters = [
+
     {
         id: "discount",
         name: "Discount Range",
